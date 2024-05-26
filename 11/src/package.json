@@ -1,0 +1,25 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "views/main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "window": {
+    "title": "IPZ_ZIEIT",
+    "icon": "assets/icon.png",
+    "toolbar": true,
+    "width": 1360,
+    "height": 720,
+    "min_width": 1360,
+    "min_height": 720,
+    "max_width": 1360,
+    "max_height": 720,
+    "position": "mouse"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
